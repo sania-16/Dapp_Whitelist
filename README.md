@@ -3,7 +3,7 @@ A Dapp which creates a list of exclusive customers for our NFT Collection
 
 Built during wmn hackathon2023
 
-To run the Dapp
+To run the Dapp - 
 
 - Change directory to whitelist
 
